@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">networkEngine</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
