@@ -1,4 +1,4 @@
-# app_framework
+# app_framework 后续完善，首先完成BriefBook的内容后，重新搭建
 android application 
 
 应用开发框架工作分为几个阶段：
